@@ -13,3 +13,7 @@ The transformation of ```.MHT``` files (MIME = Multipurpose Internet Mail Extens
 4. open the ```MIME_to_csv.ipynb``` file with jupyter
 5. on top, click the tab ```Cell```, then click ```Run All```
 6. voila, csv files are generated!
+
+## matplotlib-to-tikz
+
+Trying to get a seaborn heatmap + colorbar both converted to tikz/gpf to use in a latex file.
